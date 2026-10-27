@@ -1,0 +1,846 @@
+[
+  {
+    "id": "test_mvqlkrbi_q36fto9",
+    "title": "Описание игр",
+    "description": "В данном тесте предоставляется описание игры, нужно угадать какой именно",
+    "shuffle": true,
+    "cards": [
+      {
+        "id": "card_mvqlkrc9_k70gv2k",
+        "topic": "Описание игры",
+        "question": "Какая игра изображена в описании?",
+        "description": "Игрок держит два световых меча и разрубает летящие блоки в такт музыке, одновременно уклоняясь от препятствий.",
+        "photo": "",
+        "type": "single",
+        "points": 1,
+        "options": [
+          {
+            "id": "opt_mvqlkrc9_78sbr6k",
+            "text": "Pistol Whip",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqlkrc9_eyfoa72",
+            "text": "Beat Saber",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnbd7m_padibu6",
+            "text": "Fruit Ninja VR",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnbhau_33s5lyb",
+            "text": "Maestro",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "c5sg",
+            "name": "Pistol Whip",
+            "category": "vr"
+          },
+          {
+            "id": "6694",
+            "name": "Beat Saber",
+            "category": "vr"
+          },
+          {
+            "id": "c14h",
+            "name": "Fruit Ninja VR",
+            "category": "vr"
+          },
+          {
+            "id": "91ba",
+            "name": "Maestro",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnbtld_fowvhyk",
+        "topic": "Описание игры",
+        "question": "В какой игре можно почувствовать себя сотрудником офиса в мире, где человеческие профессии остались в прошлом?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 1,
+        "options": [
+          {
+            "id": "opt_mvqnbtld_5hj3wi1",
+            "text": "Cooking Simulator",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnbtld_gnphgfi",
+            "text": "Vacation Simulator",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqncnz9_5eay6hk",
+            "text": "Job Simulator",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqncvjo_yguf5pr",
+            "text": "Surgeon Simulator: Experience Reality",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "cf78",
+            "name": "Cooking Simulator",
+            "category": "vr"
+          },
+          {
+            "id": "5e51",
+            "name": "Vacation Simulator",
+            "category": "vr"
+          },
+          {
+            "id": "1802",
+            "name": "Job Simulator",
+            "category": "vr"
+          },
+          {
+            "id": "c6sg",
+            "name": "Surgeon Simulator: Experience Reality",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqndxqz_tkjjhbx",
+        "topic": "Описание игры",
+        "question": "В какой игре игрок становится Аликс Вэнс и сражается с силами Комбайна в Сити-17?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 2,
+        "options": [
+          {
+            "id": "opt_mvqndxqz_2k1yimp",
+            "text": "Half-Life: Alyx",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqndxqz_aqsmyeo",
+            "text": "Raw Data",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnep3q_0szz9h1",
+            "text": "Crossfire: Sierra Squad",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqneuwy_1rjo5cz",
+            "text": "Containment Initiative 2",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "5eab",
+            "name": "Half-Life: Alyx",
+            "category": "vr"
+          },
+          {
+            "id": "9be7",
+            "name": "Raw Data",
+            "category": "vr"
+          },
+          {
+            "id": "f26d",
+            "name": "Crossfire: Sierra Squad",
+            "category": "vr"
+          },
+          {
+            "id": "de67",
+            "name": "Containment Initiative 2",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnff84_9ixodaj",
+        "topic": "Описание игры",
+        "question": "Какую игру можно узнать по исследованию подземелий, поиску сокровищ и сражениям с монстрами в постоянно меняющихся лабиринтах?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 2,
+        "options": [
+          {
+            "id": "opt_mvqnff84_u7c3ps1",
+            "text": "Myst",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnff84_24kofvk",
+            "text": "Ancient Dungeon",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqng7ls_kzeu2d5",
+            "text": "Moss",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqngf74_1ii9zeo",
+            "text": "The Wizards – Enhanced Edition",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "9b4a",
+            "name": "Myst",
+            "category": "vr"
+          },
+          {
+            "id": "c3sg",
+            "name": "Ancient Dungeon",
+            "category": "vr"
+          },
+          {
+            "id": "6e45",
+            "name": "Moss",
+            "category": "vr"
+          },
+          {
+            "id": "0e9b",
+            "name": "The Wizards - Enhanced Edition",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnh2nn_6s8wwsj",
+        "topic": "Описание игры",
+        "question": "Какая игра предлагает разрушать конструкции с помощью рогатки, запуская птиц по свиньям на различных уровнях?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 1,
+        "options": [
+          {
+            "id": "opt_mvqnh2nn_lbll6im",
+            "text": "Angry Birds VR: Isle of Pigs",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnh2nn_pve4w44",
+            "text": "Elven Assassin",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnhpo2_tyw8lbb",
+            "text": "GORN",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnhy3t_cyv3y9e",
+            "text": "Fruit Ninja VR",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "698a",
+            "name": "Angry Birds VR: Isle of Pigs",
+            "category": "vr"
+          },
+          {
+            "id": "7041",
+            "name": "Elven Assassin",
+            "category": "vr"
+          },
+          {
+            "id": "f64a",
+            "name": "GORN",
+            "category": "vr"
+          },
+          {
+            "id": "c14h",
+            "name": "Fruit Ninja VR",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnigg8_0z4m5az",
+        "topic": "Описание игры",
+        "question": "В какой игре время продвигается только тогда, когда двигается игрок?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 2,
+        "options": [
+          {
+            "id": "opt_mvqnigg8_2vk5my8",
+            "text": "BONELAB",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnigg8_1srq1is",
+            "text": "SUPERHOT VR",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnj2bz_it6m729",
+            "text": "BONEWORKS",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnjbl7_n4rzjxl",
+            "text": "Pistol Whip",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "689c",
+            "name": "BONELAB",
+            "category": "vr"
+          },
+          {
+            "id": "3457",
+            "name": "SUPERHOT VR",
+            "category": "vr"
+          },
+          {
+            "id": "43e8",
+            "name": "BONEWORKS",
+            "category": "vr"
+          },
+          {
+            "id": "c5sg",
+            "name": "Pistol Whip",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnjtvz_u73g5s2",
+        "topic": "Описание игры",
+        "question": "Какая игра посвящена выживанию в опасной Зоне с аномалиями, поиску припасов и исследованию заброшенных мест?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 4,
+        "options": [
+          {
+            "id": "opt_mvqnjtvz_zyaqa4t",
+            "text": "The Forest",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnjtvz_jsjfisu",
+            "text": "Survival Nation",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnk692_ukmhk38",
+            "text": "Into the Radius",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnke0s_6l5w4e3",
+            "text": "No Man's Sky",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "feda",
+            "name": "The Forest",
+            "category": "vr"
+          },
+          {
+            "id": "aaec",
+            "name": "Survival Nation",
+            "category": "vr"
+          },
+          {
+            "id": "3db2",
+            "name": "Into the Radius",
+            "category": "vr"
+          },
+          {
+            "id": "0fea",
+            "name": "No Man's Sky",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnlfoz_0vdwr40",
+        "topic": "Описание игры",
+        "question": "В какой игре игрок управляет маленькой мышкой по имени Квилл, помогая ей исследовать мир, сражаться и решать головоломки?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 1,
+        "options": [
+          {
+            "id": "opt_mvqnlfoz_a33q8sn",
+            "text": "Moss",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnlfoz_vom56jg",
+            "text": "I Am Cat",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnlyov_x1xp3u6",
+            "text": "Ancient Dungeon",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnm35f_lo7516e",
+            "text": "Bugsnax",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "6e45",
+            "name": "Moss",
+            "category": "vr"
+          },
+          {
+            "id": "1269",
+            "name": "I Am Cat",
+            "category": "vr"
+          },
+          {
+            "id": "c3sg",
+            "name": "Ancient Dungeon",
+            "category": "vr"
+          },
+          {
+            "id": "3f61",
+            "name": "Bugsnax",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnmj1t_2ty41zk",
+        "topic": "Описание игры",
+        "question": "Какая игра предлагает ловить необычных существ, состоящих одновременно из насекомых и еды?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 2,
+        "options": [
+          {
+            "id": "opt_mvqnmj1t_43f9m8u",
+            "text": "Vacation Simulator",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnmj1t_459y09w",
+            "text": "Bugsnax",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnn47l_mbge9me",
+            "text": "I Am Cat",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnn87n_q1iq6an",
+            "text": "Cooking Simulator",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "5e51",
+            "name": "Vacation Simulator",
+            "category": "vr"
+          },
+          {
+            "id": "3f61",
+            "name": "Bugsnax",
+            "category": "vr"
+          },
+          {
+            "id": "1269",
+            "name": "I Am Cat",
+            "category": "vr"
+          },
+          {
+            "id": "cf78",
+            "name": "Cooking Simulator",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnnm4w_aoc4n6u",
+        "topic": "Описание игры",
+        "question": "Как называется VR-игра, в которой игрок дирижирует оркестром, используя движения рук?",
+        "description": "",
+        "photo": "",
+        "type": "single",
+        "points": 2,
+        "options": [
+          {
+            "id": "opt_mvqnnm4w_5vth4az",
+            "text": "Beat Saber",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnnm4w_3zksfwo",
+            "text": "All-In-One Sports VR",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqno18n_gb58lf6",
+            "text": "Loco Dojo",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnog42_7hnyr3x",
+            "text": "Maestro",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "6694",
+            "name": "Beat Saber",
+            "category": "vr"
+          },
+          {
+            "id": "c1sg",
+            "name": "All-In-One Sports VR",
+            "category": "vr"
+          },
+          {
+            "id": "e14a",
+            "name": "Loco Dojo",
+            "category": "vr"
+          },
+          {
+            "id": "91ba",
+            "name": "Maestro",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnovaw_nc8wksr",
+        "topic": "Описание игры",
+        "question": "Что характерно для Job Simulator?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 4,
+        "options": [
+          {
+            "id": "opt_mvqnovaw_8rtojd0",
+            "text": "Работа в виртуальном офисе",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnovaw_rt4mv90",
+            "text": "Работа охранником в аэропорту",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnq9mp_8wh4c4l",
+            "text": "Работа в магазине",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnqdiq_b755cj4",
+            "text": "Приготовление еды на кухне",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "1802",
+            "name": "Job Simulator",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp0ec_ohx98sx",
+        "topic": "Описание игры",
+        "question": "Какие действия относятся к Phasmophobia?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 7,
+        "options": [
+          {
+            "id": "opt_mvqnp0ec_uq43jgg",
+            "text": "Исследовать локации с паранормальной активностью",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnrlo3_hywjfht",
+            "text": "Определять тип призрака по собранным уликам",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnrqx7_vih4pbt",
+            "text": "Ловить призраков с помощью специального оборудования",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnsefq_gmhrfg6",
+            "text": "Использовать оборудование для поиска свидетельств присутствия призрака",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "e6a0",
+            "name": "Phasmophobia",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp0n7_1082gh3",
+        "topic": "Описание игры",
+        "question": "Какие особенности можно встретить в Blade & Sorcery?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 6,
+        "options": [
+          {
+            "id": "opt_mvqnp0n7_txptkw5",
+            "text": "Гладиаторские бои с использованием магии и оружия",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnp0n7_gu0r19t",
+            "text": "Эксперименты с оружием и физикой в фэнтезийном боевом песочном мире",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnvdt4_mjxggiv",
+            "text": "Использование магии в бою",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnw9l3_72vq7ji",
+            "text": "Физические сражения с использованием холодного оружия",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "c2sg",
+            "name": "Blade and Sorcery",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp0sp_ut48812",
+        "topic": "Описание игры",
+        "question": "Что соответствует описанию Arizona Sunshine 2?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 7,
+        "options": [
+          {
+            "id": "opt_mvqnp0sp_1s56pv2",
+            "text": "Игрока сопровождает собака по кличке Бадди",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnp0sp_6lgy0wa",
+            "text": "Сюжет можно проходить вчетвером",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqny8bj_95ycwn4",
+            "text": "Действие происходит во время зомби-апокалипсиса",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqny93a_d23xou3",
+            "text": "В бою можно использовать огнестрельное, холодное и метательное оружие",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "5a9c",
+            "name": "Arizona Sunshine 2",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp0xo_gzwlafm",
+        "topic": "Описание игры",
+        "question": "Что соответствует UNDERDOGS?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 5,
+        "options": [
+          {
+            "id": "opt_mvqnp0xo_18818xq",
+            "text": "Управление огромным боевым мехом",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnp0xo_bcx87v9",
+            "text": "Для перемещения используется левый стик",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqo1pun_4egdocr",
+            "text": "Улучшение с помощью оружия и экипировки",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqo1qas_62zvpsa",
+            "text": "Игра является чисто сюжетным приключением",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "028c",
+            "name": "UNDERDOGS",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp147_998mmvl",
+        "topic": "Описание игры",
+        "question": "Какие утверждения подходят к FNAF: HELP WANTED?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 6,
+        "options": [
+          {
+            "id": "opt_mvqnp147_5dmxv2j",
+            "text": "Игра включает хоррор-мини-игры во вселенной Five Nights at Freddy's",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnp147_icx40uh",
+            "text": "В игре есть возможность ходить по пиццерии",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqo4o30_a8mubl5",
+            "text": "Некоторые задания связаны с обслуживанием и ремонтом механизмов",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqo4ol6_3buwhmp",
+            "text": "В игре включены основные части серии (с 1 по 3)",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "40d1",
+            "name": "FNAF: HELP WANTED",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp1fu_wa9btmw",
+        "topic": "Описание игры",
+        "question": "Какие утверждения подходят к Crossfire: Sierra Squad?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 5,
+        "options": [
+          {
+            "id": "opt_mvqnp1fu_8xze33l",
+            "text": "Игрок может носить дополнительное оружие",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqnp1fu_rwny5cf",
+            "text": "Сюжетный режим можно играть совместно ",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqp91fw_24yiy9o",
+            "text": "Есть кастомизация оружия",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqp91x5_keivi0p",
+            "text": "Задания отряда можно проходить вчетвером",
+            "correct": false
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "f26d",
+            "name": "Crossfire: Sierra Squad",
+            "category": "vr"
+          }
+        ]
+      },
+      {
+        "id": "card_mvqnp1ri_n36o94n",
+        "topic": "Описание игры",
+        "question": "Какие утверждения подходят к Elven Assassin?",
+        "description": "",
+        "photo": "",
+        "type": "multiple",
+        "points": 1,
+        "options": [
+          {
+            "id": "opt_mvqnp1ri_dpym1ts",
+            "text": "В игре присутствует сюжетный режим",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqnp1ri_ao7e8d3",
+            "text": "Лук можно заменить на арбалет",
+            "correct": false
+          },
+          {
+            "id": "opt_mvqpb324_ui86fat",
+            "text": "В игре требуется отстреливать волны врагов",
+            "correct": true
+          },
+          {
+            "id": "opt_mvqpb3qj_wslus2q",
+            "text": "В игре есть перемещение",
+            "correct": true
+          }
+        ],
+        "linkedGames": [
+          {
+            "id": "7041",
+            "name": "Elven Assassin",
+            "category": "vr"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-10-27T11:23:43.566Z",
+    "updatedAt": "2026-10-27T13:08:35.830Z"
+  }
+]
